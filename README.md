@@ -1,2 +1,2 @@
 # information-tech
-Homework reports for Information technology taught by Tero Karvinen
+Homework reports for Information security taught by Tero Karvinen
