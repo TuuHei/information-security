@@ -1,0 +1,12 @@
+Darknet Diaries - Episode 126: REVIL
+
+The episode talks about a ramsonware service and the group behind it spreading it onto the world.
+The guest of the episode is Will, who works for Equinix Threat Analysis Center as a threat intelligence analyst.
+This episode was an interesting one. I've heard about ramsonware before and seen what it does, but I haven't read about
+these attacks on these bigger companies discussed in the episode.
+
+The main subject was a ramsonware as a service called REvil, which appeared in 2019. It allows ''clients'' to use the ramsonware, only if they
+themself have succesfully got themself into the victim companys network. After succesfully doing that, REvil will do the 
+rest of the work, and if the victim pays the fee, the payment will go 60/50 or 70/30 favoring REvil.
+
+REvil 
