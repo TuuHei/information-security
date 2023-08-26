@@ -44,3 +44,6 @@ Next I run the Debian installer and followed the instructions on the same page a
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/1ffba58f-4bbf-4520-9a5d-d9ddef6d45ac)
 
+After finishing the install, I rebootet the machine, logged in and tested the connection.
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/970bd93b-3a73-4e98-b239-bcc388786b68)
