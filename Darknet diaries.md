@@ -42,4 +42,5 @@ Once I got in, I tested the connection
 
 
 
-![kuva](https://github.com/TuuHei/information-security/assets/122973223/84c1709d-247f-4195-8bd8-70abd4cb171c)
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/1ffba58f-4bbf-4520-9a5d-d9ddef6d45ac)
+
