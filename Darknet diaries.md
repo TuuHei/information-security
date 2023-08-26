@@ -1,4 +1,4 @@
-## Darknet Diaries - Episode 126: REVIL
+# Darknet Diaries - Episode 126: REVIL
 
 The episode talks about a ramsonware service and the group behind it spreading it into the world.
 The guest of the episode is Will, who works for Equinix Threat Analysis Center as a threat intelligence analyst.
@@ -19,3 +19,14 @@ I'll take one example from the episode to show how large some of these attacks c
 meat producer was attacked, resulting shutting down at least six plants in the US. These kinds of attacks aren't only
 an inconvience for the company, but as it is deemed critical infrastructure it affects so many more people.
 JBS had to pay 11 million dollars and it wasn't even the largest payment REvil had collected in their time.
+
+## Installing Debian
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/23df1db9-1330-4776-b208-b4dfcb93bcb9)
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/2b4223b6-f3ab-4c53-bfcc-f65ef3bf3103)
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/a7a7e16d-8322-480c-a086-777a01283c90)
+
+
+
