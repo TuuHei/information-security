@@ -34,5 +34,10 @@ Next up I tried to boot it up, but this error occured.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/a7a7e16d-8322-480c-a086-777a01283c90)
 
-I fix it by enabling AMD-V in the bios following these instructions: https://youtu.be/qk42V6RfCro?si=4Vrz9sYcKCCKImu7&t=75
+I fixed it by enabling AMD-V in the bios following these instructions: https://youtu.be/qk42V6RfCro?si=4Vrz9sYcKCCKImu7&t=75
+
+Once I got in, I tested the connection
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/d2ad6ee0-7d59-4b23-b9dd-a8a1ffea5f01)
+
 
