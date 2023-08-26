@@ -40,7 +40,7 @@ Once I got in, I tested the connection
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/d2ad6ee0-7d59-4b23-b9dd-a8a1ffea5f01)
 
-
+Next I run the Debian installer and followed the instructions on the same page as before.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/1ffba58f-4bbf-4520-9a5d-d9ddef6d45ac)
 
