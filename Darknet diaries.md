@@ -22,11 +22,17 @@ JBS had to pay 11 million dollars and it wasn't even the largest payment REvil h
 
 ## Installing Debian
 
+First I downloaded VirtualBox and the correct Debian ISO Image, and followed instructions shown on the page: https://terokarvinen.com/2021/install-debian-on-virtualbox/
+
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/23df1db9-1330-4776-b208-b4dfcb93bcb9)
+
+After setting up the virtual machine I did the final tweaks in storage the settings.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/2b4223b6-f3ab-4c53-bfcc-f65ef3bf3103)
 
+Next up I tried to boot it up, but this error occured. 
+
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/a7a7e16d-8322-480c-a086-777a01283c90)
 
-
+I fix it by enabling AMD-V in the bios following these instructions: https://youtu.be/qk42V6RfCro?si=4Vrz9sYcKCCKImu7&t=75
 
