@@ -30,7 +30,7 @@ After setting up the virtual machine I did the final tweaks in storage the setti
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/2b4223b6-f3ab-4c53-bfcc-f65ef3bf3103)
 
-Next up I tried to boot it up, but this error occured. 
+I tried to boot it up, but this error occured. 
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/a7a7e16d-8322-480c-a086-777a01283c90)
 
