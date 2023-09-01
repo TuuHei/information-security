@@ -49,3 +49,30 @@ $ java -jar webgoat-server-8.0.0.M26.jar
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/17f82611-12d0-4b51-9975-33aee7e5a29f)
 
+# b) F12. Solve Webgoat 8: General: Developer tools.
+
+After installing WebGoat I registered there and started the Developer tools exercises.
+
+Firstly I looked into developer tools and ran a couple commands there.
+
+![1](https://github.com/TuuHei/information-security/assets/122973223/b996b79b-338b-429c-8782-691249277b57)
+
+First assignment was to retrieve a random number using a command in the developer tools console.
+
+![2](https://github.com/TuuHei/information-security/assets/122973223/07d95772-15df-4850-98e5-73cb23660e10)
+
+The second and last assignment was to find a number from a HTML request.
+
+![3](https://github.com/TuuHei/information-security/assets/122973223/50ae9752-4a97-4312-badf-52b81eee3ccb)
+
+# c) Not outdated. Update all operating system and all applications in your Linux.
+
+To update the operating system and its applications I used these commands in the terminal:
+
+$ sudo apt-get update
+
+$ sudo apt-get -y dist-upgrade
+
+
+
+
