@@ -27,7 +27,7 @@ Readable at: https://owasp.org/Top10/A03_2021-Injection/
 
 # a) Goat
 
-First step is to install Java to our virtual machine using following lines:
+First step is to install Java to our virtual machine using these commands:
 
 $ sudo apt-get update
 
