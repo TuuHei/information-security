@@ -75,6 +75,32 @@ $ sudo apt-get -y dist-upgrade
 
 # d) Sequel. Solve SQLZoo
 
+I solved some SQL tasks usin SQLZoo. Firstly 0 SELECT basics part, where there were 3 tasks.
+
+I only had to change the part where it showed 'France' to 'Germany'.
+
+![5](https://github.com/TuuHei/information-security/assets/122973223/49ab46d7-f943-4f11-9680-4fff32421e0c)
+
+This was also a task where I only changed the countries as instructed.
+
+![6](https://github.com/TuuHei/information-security/assets/122973223/2655893b-9028-4758-b37d-9c0b4f793e4e)
+
+I modified the numbers to their right values.
+
+![7](https://github.com/TuuHei/information-security/assets/122973223/ed8e7e9a-4542-4db6-a112-a9c97fb887e6)
+
+Second part was to complete 2 first subtasks from 2 SELECT from world.
+
+I had to find countries from the table world, where the population is more than 200 million.
+
+![8](https://github.com/TuuHei/information-security/assets/122973223/cc9a8767-e0d7-4210-b1f2-1614185ff320)
+
+In the last task I had to calculate per capita GDP, where population is more than 200 million.
+
+![9](https://github.com/TuuHei/information-security/assets/122973223/cc384392-44bf-43f6-897d-f88fb8b567d7)
+
+# Johnny tables. Solve Portswigger Labs
+
 
 
 
