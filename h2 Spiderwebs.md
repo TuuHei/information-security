@@ -101,6 +101,12 @@ In the last task I had to calculate per capita GDP, where population is more tha
 
 # Johnny tables. Solve Portswigger Labs
 
+The task is to retrieve hidden data from a online shop. First thing I did on the website, was to choose a gategory
+and then simply type '-- after the url. The site then showed one more product than previosly.
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/92679e23-f468-43ac-8e75-df0aeea08e97)
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/c1b011ff-9422-4aa6-9cb5-6225876c2204)
 
 
 
