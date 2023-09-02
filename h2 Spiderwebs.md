@@ -108,6 +108,6 @@ and then simply type '-- after the URL. The site then showed one more product th
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/c1b011ff-9422-4aa6-9cb5-6225876c2204)
 
-To show even more products, I put '+OR+1=1-- after the URL. This was a helpful website during this exercise: https://owasp.org/Top10/A03_2021-Injection/
+To show even more products, I put '+OR+1=1-- after the URL. This was a helpful website during this exercise: https://portswigger.net/web-security/sql-injection#retrieving-hidden-data
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/2fdc9d00-466b-483f-862e-d9585330d304)
