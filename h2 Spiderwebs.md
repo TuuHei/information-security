@@ -5,6 +5,7 @@
 * It is  critical to keep software updated and enabled.
 * If default accounts and their passwords aren't disabled or changed, attackers can log in with the default passwords.
 
+
 Readable at: https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
 
 ## Vulnerable and Outdated Components.
@@ -21,7 +22,6 @@ Readable at: https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components
 
 * More common injections are SQL, NoSQL, OS command, Object Relational Mapping (ORM), LDAP and Expression Language (EL).
 * Best method for detecting if applications are vulnerable is source code review.
-* 
 
 Readable at: https://owasp.org/Top10/A03_2021-Injection/
 
@@ -102,11 +102,12 @@ In the last task I had to calculate per capita GDP, where population is more tha
 # Johnny tables. Solve Portswigger Labs
 
 The task is to retrieve hidden data from a online shop. First thing I did on the website, was to choose a gategory
-and then simply type '-- after the url. The site then showed one more product than previosly.
+and then simply type '-- after the URL. The site then showed one more product than previosly.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/92679e23-f468-43ac-8e75-df0aeea08e97)
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/c1b011ff-9422-4aa6-9cb5-6225876c2204)
 
+To show even more products, I put '+OR+1=1-- after the URL. 
 
-
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/2fdc9d00-466b-483f-862e-d9585330d304)
