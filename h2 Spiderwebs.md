@@ -75,7 +75,7 @@ $ sudo apt-get -y dist-upgrade
 
 # d) Sequel. Solve SQLZoo
 
-I solved some SQL tasks usin SQLZoo. Firstly 0 SELECT basics part, where there were 3 tasks.
+I solved some SQL tasks using SQLZoo. Firstly 0 SELECT basics part, where there were 3 tasks.
 
 I only had to change the part where it showed 'France' to 'Germany'.
 
