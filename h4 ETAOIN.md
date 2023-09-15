@@ -8,7 +8,7 @@
 * To reduce the risk of attacks, the value of the data should remain less than the cost to break the security systems.
 * Good cryptosystems are designed to work even after the expected rise in computing power in the future.
 * 
-
+.. further reading
 
 a) ETAOIN
 
