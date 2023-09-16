@@ -15,18 +15,20 @@ The six most common letter for the Finnish language are A (11.45%), I (10.46%), 
 
 ## z) Choose a password manager.
 
-I chose KeePassXC as my password manager. It can be helpfull against brute force attacks, since you can use very complicated passwords without having to remember them all. Also if your password have been leaked from someones database, the hackers wouldn't benefit having only one of your passwords, since they vary from site to site.
+I chose KeePassXC as my password manager. It can be helpful against brute force attacks, since you can use very complicated passwords without having to remember them all. Also if your password have been leaked from someones database, the hackers wouldn't benefit having only one of your passwords, since they vary from site to site.
 
-Password managers encrypt the database you put your credentials in. Cloud based password managers use zero-knowledge technology, that encrypt the data, lets say on my device, before sending it to the server. 
+Password managers encrypt the database you put your login information in. Cloud based password managers use zero-knowledge technology, that encrypt the data, lets say on my device, before sending it to the server. 
 
 KeepassXC is licensed under GPL-2 or GPL-3.
 
-KeepassXC allows you to store the data where you choose. You can select any file you want or put them on the cloud. 
+KeepassXC allows you to store the data where you choose. You can select any location you want or put them on the cloud. 
 
 The data is protected by AES-256 encyption.
 
 
 ## a) ETAOIN
+
+HDMH'B TH. KWU'YI AWR WSSTOTMJJK M OWQINYIMLIY! MB KWU BII, BTGPJI BUNBHTHUHTWA OTPDIYB OMA NI NYWLIA RTHD SYIEUIAOK MAMJKBTB. BII KWU MH DHHP://HIYWLMYCTAIA.OWG
 
 that's it. you're now officially a codebreaker! as you see, simple substitution ciphers can be broken with frequency analysis. see you at http://terokarvinen.com
 
