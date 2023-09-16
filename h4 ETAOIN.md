@@ -37,12 +37,14 @@ Lets use KeepassXC for this example. You download it from their website and you 
 
 ## c) Encrypt and decrypt a message
 
-I use GnuPG as an encryption method. I tried to recreate what we did in school, but a little different. I installed GnuPG on both of my virtual machines, and created both public keys. Then I exchanged them via emails.
+I use GnuPG as an encryption method. I tried to recreate what we did in school, but a little different. I installed GnuPG on both of my virtual machines, and created both public keys. Then I exchanged them via email.
 
-
-![kuva](https://github.com/TuuHei/information-security/assets/122973223/7549db47-f996-488a-a696-523c676b5dee)
+Then it was time to create the message. I made an asc. file with the message inside it, and encrypted it using $ gpg -e -r "Matti" viesti.asc. Matti is the receiver. It then created a file looking like this:
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/aaac68ee-da46-48ec-a4d4-2ed7458e2a4b)
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/bae5384b-4195-4f0d-bd78-fbecf0b1656a)
+
 
 
 
