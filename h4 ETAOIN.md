@@ -41,7 +41,7 @@ You should also know that you can say bye bye to your passwords if they are stor
 
 ## c) Encrypt and decrypt a message
 
-I use GnuPG as an encryption method. I tried to recreate what we did in school, but a little different. I installed GnuPG on both of my virtual machines, and created both public keys. Then I exchanged them via email.
+I use GnuPG as my encryption tool. I tried to recreate what we did in school, but a little different. I installed GnuPG on both of my virtual machines, and created both public keys. Then I exchanged them via email.
 
 Then it was time to create the message. I made an asc. file with the message inside it, and encrypted it using $ gpg -e -r "Matti" viesti.asc. Matti is the receiver. It then created a file looking like this:
 
