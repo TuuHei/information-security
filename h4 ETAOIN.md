@@ -11,7 +11,7 @@
 .. further reading
 
 ## y)
-The six most common letter for the Finnish language are A (11.45%), I (10.46%), T (9.98%), N (9.14%), E (8.42%) and S (6.59%).
+The six most common letter for the Finnish language are A (11.45%), I (10.46%), T (9.98%), N (9.14%), E (8.42%) and S (6.59%). https://www.sttmedia.com/characterfrequency-finnish
 
 ## z) Choose a password manager.
 
@@ -29,6 +29,8 @@ The data is protected by AES-256 encyption.
 ## a) ETAOIN
 
 HDMH'B TH. KWU'YI AWR WSSTOTMJJK M OWQINYIMLIY! MB KWU BII, BTGPJI BUNBHTHUHTWA OTPDIYB OMA NI NYWLIA RTHD SYIEUIAOK MAMJKBTB. BII KWU MH DHHP://HIYWLMYCTAIA.OWG
+
+The task was to crack the ciphertext seen above. I started by making a list of alphabets and put a "=" mark next to them for example A = ? , B = ?, C = ?... Then I started to analyze the mess of symbols seen above. I saw that the last sentence looks like an URL, and I got my first symbols cracked. DHHP:// = HTTP://. and .OWG = .COM. Then I replaced all the remaining D's, H's, O's, W's and G's. Then I went from the shortest words to the longer ones until I had all the symbols right. 
 
 that's it. you're now officially a codebreaker! as you see, simple substitution ciphers can be broken with frequency analysis. see you at http://terokarvinen.com
 
