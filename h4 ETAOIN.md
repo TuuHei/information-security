@@ -43,7 +43,7 @@ Then it was time to create the message. I made an asc. file with the message ins
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/aaac68ee-da46-48ec-a4d4-2ed7458e2a4b)
 
-I then sent the file again via email, and opened it with "Matti"'s virtual machine using $ 
+I then sent the file again via email, and opened it with "Matti"'s virtual machine using $ gpg -d viesti.asc.gpg. It then shows the decrypted message.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/bae5384b-4195-4f0d-bd78-fbecf0b1656a)
 
