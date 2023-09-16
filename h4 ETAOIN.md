@@ -36,7 +36,8 @@ that's it. you're now officially a codebreaker! as you see, simple substitution 
 
 ## b) Demonstrate the use of a password manager.
 
-Lets use KeepassXC for this example. You download it from their website and you open the application. You have to create a database, that you protect with a strong password. Once the database is done and stored probably on your computer, you can start adding information in the database. KeepassXC has a password generator, so you can create strong passwords and keep them safe in the database. You can say bye bye to your passwords if they are stored offline and you forget your database's password or something happens to your hard drive.
+Lets use KeepassXC for this example. You download it from their website and you open the application. You have to create a database, that you protect with a strong password. Once the database is done and stored probably on your computer, you can start adding information in the database. KeepassXC has a password generator, so you can create strong passwords and keep them safe in the database.
+You should also know that you can say bye bye to your passwords if they are stored offline and you forget your database's password or something happens to your hard drive.
 
 ## c) Encrypt and decrypt a message
 
