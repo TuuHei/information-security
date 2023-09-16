@@ -8,7 +8,6 @@
 * To reduce the risk of attacks, the value of the data should remain less than the cost to break the security systems.
 * Good cryptosystems are designed to work even after the expected rise in computing power in the future.
 * 
-.. further reading
 
 ## y)
 The six most common letter for the Finnish language are A (11.45%), I (10.46%), T (9.98%), N (9.14%), E (8.42%) and S (6.59%). https://www.sttmedia.com/characterfrequency-finnish
