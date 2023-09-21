@@ -91,4 +91,16 @@ Every company must have a logo, so I'll create one with a free tool online.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/b8cff99a-a769-41fe-999b-504b473a5389)
 
+Also made a quick banner using GIMP and stock images.
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/b8b7f1ff-df7b-4a7a-9ffa-e37454730e1d)
+
+Here is the final version:
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/ff5d9aff-46cd-49ba-8fa6-1331a3980a94)
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/04446f8a-4a4b-462f-b7e0-6786e9a281de)
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/ddd1106a-5701-49fa-8e52-85c250d0010b)
+
 
