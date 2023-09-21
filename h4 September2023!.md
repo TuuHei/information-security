@@ -52,11 +52,11 @@ So first the hashid:
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/73f7c4f5-366a-411d-8fbc-3be518ce3222)
 
->Then MD5 seems to be again the most probable one, so I'll test that.
+Then MD5 seems to be again the most probable one, so I'll test that.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/e2719089-a00a-43ee-9824-c13a31890eca)
 
->It has cracked it again. Lets see what the password is.
+It has cracked it again. Lets see what the password is.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/344a853e-e4cf-4de6-b12c-36cc6043fad6)
 
