@@ -79,7 +79,7 @@ First step is to create and email which looks legit, and has content that could 
 2. Send the email to the targets. My targets are Finnish companies. It is easy to find their contact information from googling, and I could even directly contact their management.
 3. If they take the bait and click the link, It would take them to the website, which has more opportunities to get their information. For example a file that is called "Pricing_2023", and it would contain harmful malware. A fake email login could also be done to gather passwords and acces to their emails.
 
-- Making the email
+- Creating the email
 
 I copied an email i've gotten from Elisa, and I'm planning to take its structure and replace the contents with my own.
 
@@ -103,4 +103,5 @@ Here is the final version:
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/ddd1106a-5701-49fa-8e52-85c250d0010b)
 
-I would probably delete the LinkedIn link, since its rather hard to gather legitimate contacts for out fake service. Others are easy to fake, but could also be left out.
+[!NOTE]
+I would probably delete the Youtube and LinkedIn links, since its rather hard to gather legitimate contacts for out fake service. Others are easy to fake, but could also be left out. The real version would also be in Finnish.
