@@ -103,4 +103,4 @@ Here is the final version:
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/ddd1106a-5701-49fa-8e52-85c250d0010b)
 
-
+I would probably delete the LinkedIn link, since its rather hard to gather legitimate contacts for out fake service. Others are easy to fake, but could also be left out.
