@@ -42,7 +42,7 @@ It shows that it has cracked the passwords. Lets see what it is.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/1975e31e-1d67-4680-b055-e0555f75922a)
 
-The password is Summer.
+The password is summer.
 
 ## b) Crack this hash
 
@@ -60,7 +60,7 @@ It has cracked it again. Lets see what the password is.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/344a853e-e4cf-4de6-b12c-36cc6043fad6)
 
-It is February.
+It is february.
 
 
 ## c) Gone phising
