@@ -76,9 +76,14 @@ First step is to create and email which looks legit, and has content that could 
 - The process
 
 1. Making an email that looks it could be real. It has to look professional and have realistic offers. Email contains a link that leads to a fake website.
-2. 
+2. Send the email to the targets. My targets are Finnish companies. It is easy to find their contact information from googling, and I could even directly contact their management.
+3. If they take the bait and click the link, It would take them to the website, which has more opportunities to get their information. For example a file that is called "Pricing_2023", and it would contain harmful malware. A fake email login could also be done to gather passwords and acces to their emails.
 
+- Making the email
 
-Pikkujoulu paikka tarjous
-Kirjaudutaan työpaikan sähköpostilla
-Lataa hintataulukko
+I copied an email i've gotten from Elisa, and I'm planning to take its structure and replace the contents with my own.
+
+The email structure that I'll use: 
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/376b444f-45b4-4e12-88e0-e3fe660aef1b)
+
