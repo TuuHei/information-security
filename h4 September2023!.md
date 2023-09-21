@@ -87,3 +87,8 @@ The email structure that I'll use:
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/376b444f-45b4-4e12-88e0-e3fe660aef1b)
 
+Every company must have a logo, so I'll create one with a free tool online.
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/b8cff99a-a769-41fe-999b-504b473a5389)
+
+
