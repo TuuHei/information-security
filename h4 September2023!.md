@@ -103,5 +103,4 @@ Here is the final version:
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/ddd1106a-5701-49fa-8e52-85c250d0010b)
 
-[!NOTE]
-I would probably delete the Youtube and LinkedIn links, since its rather hard to gather legitimate contacts for out fake service. Others are easy to fake, but could also be left out. The real version would also be in Finnish.
+>[!NOTE]>I would probably delete the Youtube and LinkedIn links, since its rather hard to gather legitimate contacts for out fake service. Others are easy to fake, but could also be left out. The real version would also be in Finnish.
