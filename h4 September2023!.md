@@ -34,11 +34,11 @@ I need to identify the hash type for 6b1628b016dff46e6fa35684be6acc96.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/b5e8cb6f-bf58-4d68-aff1-7c0704295e34)
 
-As MD5 is the most used in the top three, we are going to go with that.
+>As MD5 is the most used in the top three, we are going to go with that.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/1932ef2b-d8a0-48eb-b384-8f91c60103c0)
 
-It shows that it has cracked the passwords. Lets see what it is.
+>It shows that it has cracked the passwords. Lets see what it is.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/1975e31e-1d67-4680-b055-e0555f75922a)
 
@@ -52,11 +52,11 @@ So first the hashid:
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/73f7c4f5-366a-411d-8fbc-3be518ce3222)
 
-Then MD5 seems to be again the most probable one, so I'll test that.
+>Then MD5 seems to be again the most probable one, so I'll test that.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/e2719089-a00a-43ee-9824-c13a31890eca)
 
-It has cracked it again. Lets see what the password is.
+>It has cracked it again. Lets see what the password is.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/344a853e-e4cf-4de6-b12c-36cc6043fad6)
 
@@ -87,15 +87,15 @@ The email structure that I'll use:
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/376b444f-45b4-4e12-88e0-e3fe660aef1b)
 
-Every company must have a logo, so I'll create one with a free tool online.
+>Every company must have a logo, so I'll create one with a free tool online.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/b8cff99a-a769-41fe-999b-504b473a5389)
 
-Also made a quick banner using GIMP and stock images.
+>Also made a quick banner using GIMP and stock images.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/b8b7f1ff-df7b-4a7a-9ffa-e37454730e1d)
 
-Here is the final version:
+>Here is the final version:
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/ff5d9aff-46cd-49ba-8fa6-1331a3980a94)
 
@@ -103,4 +103,4 @@ Here is the final version:
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/ddd1106a-5701-49fa-8e52-85c250d0010b)
 
->[!NOTE]>I would probably delete the Youtube and LinkedIn links, since its rather hard to gather legitimate contacts for out fake service. Others are easy to fake, but could also be left out. The real version would also be in Finnish.
+> I would probably delete the Youtube and LinkedIn links, since its rather hard to gather legitimate contacts for our fake service. Others are easy to fake, but could also be left out. The real version would also be in Finnish.
