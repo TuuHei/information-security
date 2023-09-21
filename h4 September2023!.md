@@ -18,6 +18,35 @@ Särökaari 2018: Phishing trough email:
 
 ## a) Install Hashcat
 
+First I updated linux and installed hashcat using.
+- $ sudo apt-get update
+- $ sudo apt-get -y install hashid hashcat wget
+
+I also created a new directory for the exercise.
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/192881d6-4ade-45a9-901c-d0e729f49c2b)
+
+Secondly I downloaded the Rockyou dictionary.
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/1aace2cb-62e1-431b-9e31-b55cc2a52799)
+
+I'm going to use the same hash used in the exercice at: https://terokarvinen.com/2022/cracking-passwords-with-hashcat/.
+
+I need to identify the hash type for 6b1628b016dff46e6fa35684be6acc96.
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/b5e8cb6f-bf58-4d68-aff1-7c0704295e34
+
+As MD5 is the most used in the top three, we are going to go with that.
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/1932ef2b-d8a0-48eb-b384-8f91c60103c0)
+
+It shows that it has cracked the passwords. Lets see what it is.
+
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/1975e31e-1d67-4680-b055-e0555f75922a)
+
+
+
+
+
+
 
 
 
@@ -25,3 +54,5 @@ Särökaari 2018: Phishing trough email:
 Phishing email
 
 Pikkujoulu paikka tarjous
+Kirjaudutaan työpaikan sähköpostilla
+Lataa hintataulukko
