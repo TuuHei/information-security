@@ -63,8 +63,20 @@ It has cracked it again. Lets see what the password is.
 It is february.
 
 
-## c) Gone phising
+## c) Gone phishing
 
+- How, and who am I phishing?
+
+My idea is to create a fake service for event planning. At this time it is concentrated on pre-Christmas parties. This could work against almost any-sized companies, as my fake service could provide smaller events, like dinners or other activities for smaller groups. It would also offer cruises for bigger parties.
+
+- How to lure
+
+First step is to create and email which looks legit, and has content that could interest the recipient. I know that many companies do have events like pre-Christmas parties for their employees, so I'm trying to get their interest by offering variety of events. That alone might not get their interest, but I'm offering them discounts, which might peak their interest enough to go to the fake site.
+
+- The process
+
+1. Making an email that looks it could be real. It has to look professional and have realistic offers. Email contains a link that leads to a fake website.
+2. 
 
 
 Pikkujoulu paikka tarjous
