@@ -52,7 +52,7 @@ The password is summer.
 
 Im trying to crack "8eb8e307a6d649bc7fb51443a06a216f" with the same method as above.
 
-So first the hashid:
+First identify the hashid:
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/73f7c4f5-366a-411d-8fbc-3be518ce3222)
 
