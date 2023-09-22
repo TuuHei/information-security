@@ -11,10 +11,11 @@ Source: https://learning.oreilly.com/library/view/applied-cryptography-protocols
 
 Särökaari 2018: Phishing trough email:
 
-*
-*
+* Phishing means sending emails that look like they are from a reputable source, and the goal is to gain information.
+* The information is gathered by malicious attachments or links.
 * Filtering, SPF, DMARC and DKIM are the main tools against phishing.
-* 
+
+Source: https://www.youtube.com/watch?v=m9YFJGSHYtY
 
 ## a) Install Hashcat
 
@@ -76,8 +77,8 @@ First step is to create and email which looks legit, and has content that could 
 - The process
 
 1. Making an email that looks it could be real. It has to look professional and have realistic offers. Email contains a link that leads to a fake website.
-2. Send the email to the targets. My targets are Finnish companies. It is easy to find their contact information from googling, and I could even directly contact their management.
-3. If they take the bait and click the link, It would take them to the website, which has more opportunities to get their information. For example a file that is called "Pricing_2023", and it would contain harmful malware. A fake email login could also be done to gather passwords and acces to their emails.
+2. Send the email to the targets. My targets are Finnish companies. It is easy to find their contact information from the internet, and I could even directly contact their management.
+3. If they take the bait and click the link, It would take them to the website, which has more opportunities to get their information. For example a file that is called "Pricing_2023", and it would contain harmful malware. A fake email login could also be done to gather passwords and acces to their emails. For this exercise I'll only focus on the email message.
 
 - Creating the email
 
