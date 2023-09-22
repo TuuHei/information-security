@@ -107,4 +107,4 @@ The email structure that I'll use:
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/c8d7a3d6-0694-40c9-8128-8cbf547265ed)
 
-> Every picture or text with a backround color would be a link in a real situation. I've also added a file to the email message.
+> Every picture or text with a backround color would be a link in a real situation. I've also added a file to the email message. The real version would ofcourse be in Finnish.
