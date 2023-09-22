@@ -38,7 +38,7 @@ I need to identify the hash type for 6b1628b016dff46e6fa35684be6acc96.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/b5e8cb6f-bf58-4d68-aff1-7c0704295e34)
 
->As MD5 is the most used in the top three, we are going to go with that.
+>As MD5 is the most common one in the top three, we are going to go with that.
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/1932ef2b-d8a0-48eb-b384-8f91c60103c0)
 
