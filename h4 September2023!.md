@@ -5,7 +5,7 @@ Applied Cryptography: 2.3 One-Way Functions and 2.4 One-Way Hash Functions:
 * Computing of  one-way functions is relatively easy, but if you want to reverse them, it would take millions of years.
 * Mathematically speaking, There is no proof one-way functions really exist.
 * Trapdoor one-way fuction is the same as one-way functions, but there is a secret added, which makes the function computable in both directions.
-* Hash functions take an input string, which varies in lenght, and converts it to an output string (hash value), which has a fixed length.
+* Hash functions take an input string, which varies in length, and converts it to an output string (hash value), which has a fixed length.
 
 Source: https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/10_chap02.html#chap02-sec003
 
