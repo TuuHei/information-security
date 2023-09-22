@@ -98,10 +98,10 @@ The email structure that I'll use:
 
 >Here is the final version:
 
-![kuva](https://github.com/TuuHei/information-security/assets/122973223/ff5d9aff-46cd-49ba-8fa6-1331a3980a94)
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/9f2fc986-1510-47e5-a790-5546bfa27f5f)
 
-![kuva](https://github.com/TuuHei/information-security/assets/122973223/04446f8a-4a4b-462f-b7e0-6786e9a281de)
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/e9437a2c-d56b-41e6-913e-5aeb1b3b9d4c)
 
-![kuva](https://github.com/TuuHei/information-security/assets/122973223/ddd1106a-5701-49fa-8e52-85c250d0010b)
+![kuva](https://github.com/TuuHei/information-security/assets/122973223/fc909846-cf40-441f-a936-a690cda4ab4e)
 
-> I would probably delete the Youtube and LinkedIn links, since its rather hard to gather legitimate contacts for our fake service. Others are easy to fake, but could also be left out. The real version would also be in Finnish.
+> Every picture or text with a backround color would be a link in a real situation. I've also added a file to the email message. 
