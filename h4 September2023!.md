@@ -99,7 +99,7 @@ The email structure that I'll use:
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/b8b7f1ff-df7b-4a7a-9ffa-e37454730e1d)
 
->Here is the version after implementing my pictures and text:
+>Here is the version after adding my pictures and text:
 
 ![kuva](https://github.com/TuuHei/information-security/assets/122973223/9f2fc986-1510-47e5-a790-5546bfa27f5f)
 
