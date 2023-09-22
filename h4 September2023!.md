@@ -71,17 +71,17 @@ It is february.
 
 - How, and who am I phishing?
 
-My idea is to create a fake service for event planning. At this time it is concentrated on pre-Christmas parties. This could work against almost any-sized companies, as my fake service could provide smaller events, like dinners or other activities for smaller groups. It would also offer cruises for bigger parties.
+My idea is to create a fake event planning service. At this time it is concentrated on pre-Christmas parties. This could work against almost any-sized companies, as my fake service could provide smaller events like dinners or other activities for smaller groups. It would also offer cruises, for example, for bigger parties.
 
 - How to lure
 
-First step is to create and email which looks legit, and has content that could interest the recipient. I know that many companies do have events like pre-Christmas parties for their employees, so I'm trying to get their interest by offering variety of events. That alone might not get their interest, but I'm offering them discounts, which might peak their interest enough to go to the fake site.
+First step is to create and email which looks legit, and has content that could interest the recipient. I know that many companies have events like pre-Christmas parties for their employees, so I'm trying to get their interest by offering a variety of events. That alone might not get their interest, so I'm offering them discounts, which might peak their interest enough to go to the fake site or open attachments.
 
 - The process
 
-1. Making an email that looks it could be real. It has to look professional and have realistic offers. Email contains a link that leads to a fake website.
-2. Send the email to the targets. My targets are Finnish companies. It is easy to find their contact information from the internet, and I could even directly contact their management.
-3. If they take the bait and click the link, It would take them to the website, which has more opportunities to get their information. For example a file that is called "Pricing_2023", and it would contain harmful malware. A fake email login could also be done to gather passwords and acces to their emails. For this exercise I'll only focus on the email message.
+1. Making an email that looks it could be real. It has to look professional and have realistic offers. Email contains a link that leads to a fake website and an malicious attachment.
+2. Send the email. My targets are Finnish companies. It is easy to find their contact information from the internet, and I could even directly contact their management.
+3. If they take the bait and click the link, It would take them to the website, which has more opportunities to get their information. For example a  malicious file that is called "Pricing_2023". A fake email login could also be done to gather passwords and access to their emails. For this exercise I'll only focus on the email message.
 
 - Creating the email
 
