@@ -13,7 +13,10 @@ Särökaari 2018: Phishing trough email:
 
 * Phishing means sending emails that look like they are from a reputable source, and the goal is to gain information.
 * The information is gathered by malicious attachments or links.
-* Filtering, SPF, DMARC and DKIM are the main tools against phishing.
+* Sender Policy Framework (SPF) is a validation system which checks if the senders IP addres is the expected one.
+* DomainKeys Identified Mail (DKIM) helps to validate that no one has tampered with an email during transmit by adding a digital signature in the emails headers.
+* SPF and DKIM make domains more legitimate.
+* Malware and spam filtering help to protect you against malicious attachmenst and poorly made phishing emails.
 
 Source: https://www.youtube.com/watch?v=m9YFJGSHYtY
 
